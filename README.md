@@ -28,6 +28,7 @@
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48"/>
 
 </div>
 
