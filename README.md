@@ -25,6 +25,10 @@
 
 ### Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,expressjs,mongodb&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/ejs" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="48" height="48"/>
+
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
